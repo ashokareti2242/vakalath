@@ -1,9 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
 import './App.css'
 import { CounterAffidavitTemplate } from './pages/highcourt/counter/template';
-import {ContemptAffidavitTemplate} from './pages/highcourt/cc/template'
+import { ContemptAffidavitTemplate } from './pages/highcourt/cc/template'
 import { renderAsync } from 'docx-preview';
 import { Packer } from 'docx';
+import { generateAndDownloadDocx } from './services/templateFunctions';
+import { AffipetTemplate } from './pages/highcourt/aa/template';
 
 function App() {
   const containerRef = useRef();
@@ -11,7 +13,7 @@ function App() {
     if (containerRef.current) {
       containerRef.current.innerHTML = "";
 
-      const doc = ContemptAffidavitTemplate(); 
+      const doc = AffipetTemplate();
       Packer.toBlob(doc).then((blob) => {
         renderAsync(blob, containerRef.current, null, {
           className: "docx-preview",
@@ -20,11 +22,19 @@ function App() {
       });
     }
   }, []);
-  
+
 
 
   return (
-    <div ref={containerRef} />
+    <div>
+      <button
+        className="btn btn-success"
+        onClick={() => generateAndDownloadDocx()}
+      >
+        Download DOCX
+      </button>
+      <div ref={containerRef} />
+    </div>
   )
 }
 

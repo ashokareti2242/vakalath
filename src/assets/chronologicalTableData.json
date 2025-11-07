@@ -1,0 +1,2538 @@
+{
+    "antibail": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Bail Application",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "${OPNO}, of ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Order in Crl.MP",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "bail": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Bail Application",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath/Memo of Appearance",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "appealsuit": {
+        "header": [
+            "Sl.No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee paid Rs.",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Certified copy of the Judgment and Decree passed in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Typed copy of the Judgment and Decree passed in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "ca": {
+        "header": [
+            "Sl.No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": false,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "cea": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds of Appeal",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Final Order No.",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Order in Appeal",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "Order in Original",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "cma": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Certified copy of the Judgment and Decree passed in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Typed copy of Judgment and Decree passed in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "crp": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Certified copy of the Order and Decree in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Typed copy of the Order and Decree in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Petition, Affidavit in ${OPNO}",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "Counter",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "hc": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Criminal Petition",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "cc": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Petition",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Affidavit",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Order in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Affidavit, Petition",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "crla": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Bail Application",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "4"
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "5"
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "crlrc": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Certified copy of the Judgment passed in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "Filed"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Xerox copy of the Judgment passed in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Memo of Appearance",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "macma": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Judgment and Decree in ${OPNO} (Original)",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "4"
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "5"
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "xobj": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee paid Rs.",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "drtsa": {
+        "header": [
+            "Sl. No.",
+            "Description of the document",
+            "Date of document",
+            "Page Nos."
+        ],
+        "headerbold": false,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Vakalat",
+                "Date_of_Document": "",
+                "Page_Nos": ""
+            }
+        ]
+    },
+    "fca": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Certified copy of the Judgment and Decree passed in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Typed copy of Judgment and Decree ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "wta": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "ccca": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Lodgment Schedule and T&P",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "trcrlmp": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Transfer Petition",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Xerox copy of the Order in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "trcmp": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Transfer Petition",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Affidavit",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            }
+        ]
+    },
+    "osa": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Impugned Order",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Order in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "pil": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Service Certificate",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Court fee",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Writ Petition",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "Annexure I, II, III, IV",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Affidavit & Verification",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Affidavit & Verification",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Affidavit & Verification",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Affidavit & Verification",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "7",
+                "Exhibit": "P1",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "8",
+                "Exhibit": "P2",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "9",
+                "Exhibit": "P3",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "10",
+                "Exhibit": "P4",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "11",
+                "Exhibit": "P5",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "12",
+                "Exhibit": "P6",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "13",
+                "Exhibit": "P7",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "14",
+                "Exhibit": "P8",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "15",
+                "Exhibit": "P9",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "16",
+                "Exhibit": "P10",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Personal details of the petitioner",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "17",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "18",
+                "Exhibit": "",
+                "Description_of_Document": "Respondents Addresses",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            }
+        ]
+    },
+    "quash": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Criminal Petition ",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "rectran": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Affidavit and Petition",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Xerox Copy of",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "7",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "reviewpetition": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Service Certificate",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Original Order in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "secondAppeal": {
+        "header": [
+            "Sl. No.",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Description_of_Document": "Certified copy of the Judgment and Decree in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Description_of_Document": "Certified copy of the Judgment and Decree in OS.No.",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "4"
+            },
+            {
+                "Sl_No": "5",
+                "Description_of_Document": "Typed copy of the Judgment and Decree in ${OPNO} on the file of the ${lowercourt}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "5"
+            },
+            {
+                "Sl_No": "6",
+                "Description_of_Document": "Typed copy of Judgment and Decree in OS.No.",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "6"
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "7"
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "itta": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Bail Application",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "wa": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Service Certificate",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Court Fee",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Grounds",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "Original Order in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "Order in ${OPNO}",
+                "Date_of_Document": "${OPDATE}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "7",
+                "Exhibit": "",
+                "Description_of_Document": "Petition and Affidavit in ${OPNO}",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Counters",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath/Memo of Appearance",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            }
+        ]
+    },
+    "wp": {
+        "header": [
+            "Sl. No.",
+            "Exhibit",
+            "Description of Document",
+            "Date of Document",
+            "Date of filing of Document",
+            "Page No."
+        ],
+        "headerbold": true,
+        "rows": [
+            {
+                "Sl_No": "1",
+                "Exhibit": "",
+                "Description_of_Document": "Service Certificate",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": "1"
+            },
+            {
+                "Sl_No": "2",
+                "Exhibit": "",
+                "Description_of_Document": "Court fee",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "2"
+            },
+            {
+                "Sl_No": "3",
+                "Exhibit": "",
+                "Description_of_Document": "Writ Petition",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": "3"
+            },
+            {
+                "Sl_No": "4",
+                "Exhibit": "",
+                "Description_of_Document": "Annexure",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "5",
+                "Exhibit": "",
+                "Description_of_Document": "Affidavit",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "6",
+                "Exhibit": "",
+                "Description_of_Document": "Verification",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Material Papers",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "7",
+                "Exhibit": "P1",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "8",
+                "Exhibit": "P2",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "9",
+                "Exhibit": "P3",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "10",
+                "Exhibit": "P4",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "11",
+                "Exhibit": "P5",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "12",
+                "Exhibit": "P6",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "13",
+                "Exhibit": "P7",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "14",
+                "Exhibit": "P8",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "15",
+                "Exhibit": "P9",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "16",
+                "Exhibit": "P10",
+                "Description_of_Document": "",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "",
+                "Exhibit": "",
+                "Description_of_Document": "Personal details of the petitioner",
+                "Date_of_Document": "",
+                "Date_of_filing_of_Document": "",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "17",
+                "Exhibit": "",
+                "Description_of_Document": "Vakalath",
+                "Date_of_Document": "${fdate}",
+                "Date_of_filing_of_Document": "${fdate}",
+                "Page_No": ""
+            },
+            {
+                "Sl_No": "18",
+                "Exhibit": "",
+                "Description_of_Document": "Respondents Addresses",
+                "Date_of_Document": "-do-",
+                "Date_of_filing_of_Document": "-do-",
+                "Page_No": ""
+            }
+        ]
+    }
+}
